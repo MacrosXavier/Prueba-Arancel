@@ -1,0 +1,45 @@
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.Resources.resources
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmcliente.resources
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.exe
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.xml
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.pdb
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmcategoria.resources
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmproducto.resources
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmventa.resources
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\RdlCompile.cache
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\RdlCompile.compiled
+C:\Users\CARLOS\documents\visual studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmreporteproductos.resources
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frminicio.resources
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.frmlogin.resources
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\CARLOS\Documents\Visual Studio 2010\Projects\sisventas\sisventas\obj\x86\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.exe
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.xml
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.pdb
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.Resources.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmcategoria.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmcliente.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmdetalle_venta.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frminicio.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmlogin.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmproducto.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmventa.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmreportecomprobante.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.frmreporteproductos.resources
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\RdlCompile.cache
+C:\ARCHIVOS\Carlos\Proyecto Youtube\Sistema Visual Studio 2010 y SqlServer 2008\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\RdlCompile.compiled
+E:\Desarrollo Apps\Colegio en Visual\Ejemplos\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.exe
+E:\Desarrollo Apps\Colegio en Visual\Ejemplos\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.xml
+E:\Desarrollo Apps\Colegio en Visual\Ejemplos\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.pdb
+E:\Desarrollo Apps\Colegio en Visual\Ejemplos\VideoCurso Sistema de Ventas en Visual Studio 2010 y SqlServer 2008\Código Fuente del Sistema de Ventas\sisventas\sisventas\obj\x86\Debug\sisventas.vbprojAssemblyReference.cache
