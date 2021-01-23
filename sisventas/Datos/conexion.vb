@@ -5,6 +5,7 @@ Public Class conexion
 
     Public idusuario As Integer
     'Prueba de cambio
+    'Haciendo cambios en la otra rama
     Protected Function conectado()
         Try
             cnn = New SqlConnection("data source=(local);initial catalog=dbventas;integrated security=true")
