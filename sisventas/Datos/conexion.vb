@@ -4,7 +4,7 @@ Public Class conexion
     Protected cnn As New SqlConnection
 
     Public idusuario As Integer
-
+    'Prueba de cambio
     Protected Function conectado()
         Try
             cnn = New SqlConnection("data source=(local);initial catalog=dbventas;integrated security=true")
