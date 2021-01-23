@@ -4,7 +4,7 @@
 Public Class fcategoria
     Inherits conexion
     Dim cmd As New SqlCommand
-
+    'Otra prueba de cambio
     Public Function mostrar() As DataTable
         Try
             conectado()
